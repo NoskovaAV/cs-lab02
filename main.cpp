@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-int a, b, Max, Min;
+double a, b, Max, Min;
 cin >> a >> b;
 Max = a + b;
     if (a-b>Max)
